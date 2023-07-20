@@ -5,7 +5,6 @@
 .sass-cache
 coverage/*
 db/*.sqlite3
-doc/**/*
 log/*.log
 public/uploads
 rerun.txt
