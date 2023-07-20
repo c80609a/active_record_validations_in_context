@@ -11,6 +11,6 @@ The data example when user selects Paxum payout option. The app validates the da
 
 ![use_paxum_validator](./doc/use_paxum_validator.png)
 
-The data example when user selects Webmoney payout option. The app validates the data using `PaxumValidator`:
+The data example when user selects Webmoney payout option. The app validates the data using `WebmoneyValidator`:
 
 ![user_webmoney_validator](./doc/user_webmoney_validator.png)
